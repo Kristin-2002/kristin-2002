@@ -1,13 +1,9 @@
 ## Hi there 👋
-My name is Kristin. I'm a physical oceanographer with expertise in ocean observation, data processing, and analysis. My research focuses on large-scale ocean circulation and climate variability on seasonal to longer timescales. I have broad experience analyzing multiplatform datasets, including in-situ ocean observations, reanalysis products, and outputs from ocean general circulation and climate models.
+My name is Kristin. I'm a physical oceanographer with expertise in ocean observations, data processing, and analysis. My research focuses on large-scale ocean circulation and climate variability on seasonal to longer timescales. I have broad experience analyzing multiplatform datasets, including in-situ ocean observations, reanalysis products, and outputs from ocean general circulation and climate models.
 
-🔭 I'm part of the team monitoring the North Atlantic Current in the Rockall Trough—have a look at the [Ellet Array](https://scotmarphys.github.io/ScotMarPhys.OSNAP-Mooring-Processing.io/).
-🌍 The Ellet Array is part of a larger initiative: the Overturning in the Subpolar North Atlantic Program—check out [OSNAP](https://www.o-snap.org/).
-🗒️ You can find a full list of my publications, reports, and conference contributions on my [Google Scholar](https://scholar.google.com/citations?user=tA7ggMAAAAAJ&hl=en) profile.
-
-- 🔭 I'm part of the team monitoring the North Atlantic Current in the Rockall Trough, have a look at the Ellet Array [here](https://scotmarphys.github.io/ScotMarPhys.OSNAP-Mooring-Processing.io/)
-- 🌍 The Ellet Array is part of something bigger, the Overturning in the Subpolar North Atlantic Program, check out [OSNAP](https://www.o-snap.org/)
-- 🗒️ You can find a full list of my publications, reports and conference contributions [here](https://scholar.google.com/citations?user=tA7ggMAAAAAJ&hl=en)
+- 🔭 I'm part of a team monitoring the North Atlantic Current in the Rockall Trough—have a look at the [Ellet Array](https://scotmarphys.github.io/ScotMarPhys.OSNAP-Mooring-Processing.io/).
+- 🌍 The Ellet Array is part of a larger initiative: the Overturning in the Subpolar North Atlantic Program—check out [OSNAP](https://www.o-snap.org/).
+- 🗒️ You can find a full list of my publications, reports, and conference contributions on my [Google Scholar](https://scholar.google.com/citations?user=tA7ggMAAAAAJ&hl=en) profile.
 
 <!--
 **Kristin-2002/kristin-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
