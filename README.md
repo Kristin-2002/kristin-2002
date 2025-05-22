@@ -1,4 +1,9 @@
 ## Hi there 👋
+Im am Kristin, a physical oceanographer and expert ocean observation, data processing and analysis. I am interested in large-scale ocean circulation and climate variability on seasonal to longer time scales. I have a broad experience analysing multiplatform datasets—including in-situ ocean observations, reanalysis products, and ocean general circulation and climate model outputs.
+
+- 🔭 I'm part of the team monitoring the North Atlantic Current in the Rockall Trough, have a look at the Ellet Array [here](https://scotmarphys.github.io/ScotMarPhys.OSNAP-Mooring-Processing.io/)
+- 🌍 The Ellet Array is part of something bigger, the Overturning in the Subpolar North Atlantic Program, check out [OSNAP](https://www.o-snap.org/)
+- 🗒️ You can find a list of my publications [here](https://scholar.google.com/citations?user=tA7ggMAAAAAJ&hl=en)
 
 <!--
 **Kristin-2002/kristin-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
