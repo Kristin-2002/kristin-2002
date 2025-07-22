@@ -5,7 +5,7 @@ My name is Kristin. I'm a physical oceanographer with expertise in ocean observa
 - 🌊 I'm part of a team monitoring the North Atlantic Current in the Rockall Trough—check out the [Ellet Array](https://scotmarphys.github.io/ScotMarPhys.OSNAP-Mooring-Processing.io/).
 - 🌍 The Ellett Array feeds into a larger initiative: [OSNAP](https://www.o-snap.org/), the Overturning in the Subpolar North Atlantic Program. 
 - 🗒️ Full list of my publications, reports, and conference contributions on my [Google Scholar](https://scholar.google.com/citations?user=tA7ggMAAAAAJ&hl=en) profile.
-- 🤝 Always keen to collaborate on anything that helps us observe the ocean better, share it more widely, and use it more effectively—especially for climate and community impact.
+- 🤝 Always keen to collaborate on anything that helps us observe the ocean better, share it more widely, and use it more effectively—especially for climate action and community impact.
 
 <!--
 **Kristin-2002/kristin-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
