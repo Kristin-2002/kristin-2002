@@ -1,10 +1,10 @@
 ## Hi there 👋
 My name is Kristin. I'm a physical oceanographer with expertise in ocean observations, data processing, and analysis. My research focuses on large-scale ocean circulation and climate variability on seasonal to longer timescales. I have broad experience analyzing multiplatform datasets, including in-situ ocean observations, reanalysis products, and outputs from ocean general circulation and climate models.
 
-- 🔭 Currently working on integrating glider observations into [Rockall Trough transports](https://github.com/ScotMarPhys/Rockall_Trough_Transports) estimates.
+- 🔭 Currently integrating glider observations into [Rockall Trough transports](https://github.com/ScotMarPhys/Rockall_Trough_Transports) estimates.
 - 🌊 I'm part of a team monitoring the North Atlantic Current in the Rockall Trough—check out the [Ellet Array](https://scotmarphys.github.io/ScotMarPhys.OSNAP-Mooring-Processing.io/).
 - 🌍 The Ellett Array feeds into a larger initiative: [OSNAP](https://www.o-snap.org/), the Overturning in the Subpolar North Atlantic Program. 
-- 🗒️ You can find a full list of my publications, reports, and conference contributions on my [Google Scholar](https://scholar.google.com/citations?user=tA7ggMAAAAAJ&hl=en) profile.
+- 🗒️ Full list of my publications, reports, and conference contributions on my [Google Scholar](https://scholar.google.com/citations?user=tA7ggMAAAAAJ&hl=en) profile.
 - 🤝 Always keen to collaborate on anything that helps us observe the ocean better, share it more widely, and use it more effectively—especially for climate and community impact.
 
 <!--
